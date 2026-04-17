@@ -1,5 +1,7 @@
 # From Product Strategy to Technical Execution
 
+## Building Modern Solutions Engineering Capability Through Hands-On Execution
+
 Hi, I’m Lovely Marshall.
 
 I created this roadmap to intentionally bridge executive product strategy experience with hands-on technical execution required in modern Solutions Engineering roles.
